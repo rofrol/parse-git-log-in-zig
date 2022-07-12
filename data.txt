@@ -1,0 +1,16 @@
+commit 4e947a24cd77ce140415fa210790e3dd5040da93 (HEAD -> refs/heads/main, refs/remotes/origin/main, refs/remotes/origin/HEAD)
+Author: Roman Frołow <rofrol@gmail.com>
+Date:   2022-07-12T06:24:29+02:00
+
+    Writing to file works
+
+2	2	db.txt
+23	2	src/main.zig
+
+commit a9dc272afadff498ffb97e5ff3ada21f17e4be91
+Author: Roman Frołow <rofrol@gmail.com>
+Date:   2022-07-11T20:37:11+02:00
+
+    put
+
+11	1	src/main.zig
